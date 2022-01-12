@@ -1,0 +1,1 @@
+# django-tech-blog-2022
